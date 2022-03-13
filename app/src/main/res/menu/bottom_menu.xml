@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reviews"
+        android:icon="@drawable/icon_review"
+        android:title="@string/menu_reviews"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/critics"
+        android:icon="@drawable/icon_critic"
+        android:title="@string/critics_bottom"
+        android:orderInCategory="2"/>
 
 </menu>
+
+
+
+
+

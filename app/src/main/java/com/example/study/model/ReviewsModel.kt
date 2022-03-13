@@ -1,9 +1,9 @@
-package com.example.study
+package com.example.study.model
 
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
 
-object Model {
+
     @JsonClass(generateAdapter = false)
     data class ReviewsResponse(
         @Json(name = "status")
@@ -44,4 +44,3 @@ object Model {
         val src: String?
     )
 
-}

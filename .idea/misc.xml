@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/drawable/icon_toolbar_search.xml" value="0.2715" />
+        <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/layout/critics.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/layout/dfdfd.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/layout/fragment_critics.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/layout/item_review.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/layout/search_bar.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/menu/bottom_menu.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/killt/AndroidStudioProjects/Study/app/src/main/res/menu/main_menu.xml" value="0.38697916666666665" />
       </map>
     </option>
